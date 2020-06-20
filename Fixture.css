@@ -1,0 +1,72 @@
+
+.container-fluid.color{
+    background-color:#e3f1ff;
+}
+
+.section-blue{
+    background-color:#57708b;
+}
+.Fixture{
+    font-size: 3rem;
+    font-weight: 700;
+    color: #ffffff;
+    margin-right: 20px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    
+}
+.Fixture-1{
+    background-color: #c7beb4;
+    font-size: 8rem;
+    color: #ffff;
+}
+
+.section-darkblue{
+ background-color:#114781;
+    color: #ffffff;
+    font-size: 1.2rem;
+    font-weight: 400;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.section-ash{
+    background-color:#04105e;
+    padding-top: 10px;
+    padding-bottom: 10px;
+font-family:serif;
+     
+    text-align: center;
+    color: #C7D9EB;
+font-weight:700;
+}
+
+.table{
+    background-color: #4ca8fa;
+    
+    margin-top: auto;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: 600;
+    color: #dbdbdb;
+     border-radius: 20px;
+}
+
+.container.tabel{
+    padding-top: 5px;
+    padding-bottom:20px;
+   
+   
+}
+a.navbar-brand{
+    font-size:1.9rem;
+    font-weight: 700;
+}
+
+footer{
+    background-color: #1f2833;
+    color:#c5c6c7;
+    
+}
+
