@@ -31,7 +31,7 @@ a{
 }
 .section{
     
-    background-color:#1f2833;
+    background-color:#212527;
 }
 .btn-main{
     background-color:#66fCf1 !important; 
@@ -74,8 +74,9 @@ a{
     padding-top: 10px;
 }
 .Blog-post{
-    background-color:#000C10;
+    background-color:#141617;
     color: #c5c6c7;
+    padding-bottom: 25px;
 }
 .h1,h2,h3,h4,h5{
     font-family: sans-serif;
@@ -84,15 +85,17 @@ a{
 }
 
 .col-md-8 {
-    margin-top: 20px;
+    
+    padding-bottom: 10px;
 }
 .col-sm-4{
-    margin-top: 20px;
-    padding: 10px;
+   
+
+    
 }
 
 .row.md-8{
-    margin-top: 15px;
+    margin-top: 10px;
 }
 .row.sm-4{
     margin-top: 20px;
@@ -120,7 +123,25 @@ footer a{
     color: #66fCf1 !impotant;
     
 }
-
+.container.caurosel{
+    padding-top: 20px;
+}
+.navbar-dark .navbar-brand{
+    color:#007bff;
+     font-weight: 700;
+    font-size: 2rem;
+}
+.row.blog-post{
+ 
+    font-size: 2rem;
+    text-align: center;
+    margin-left: 40px;
+}
+.post{
+padding-top: 10px;
+    font-family: fantasy;
+    
+}
 
 
 
